@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "weather": "node weather.js",
+    "today": "node today.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
