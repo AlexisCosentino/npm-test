@@ -1,0 +1,22 @@
+{
+  "name": "node-cours",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexisCosentino/npm-test.git"
+  },
+  "author": "Alexis Cosentino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexisCosentino/npm-test/issues"
+  },
+  "homepage": "https://github.com/AlexisCosentino/npm-test#readme",
+  "dependencies": {
+    "weather-js": "^2.0.0"
+  }
+}
